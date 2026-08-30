@@ -229,7 +229,7 @@ I worked on multiple monetization and engagement systems, including:
 
 A short walkthrough showcasing the application's interface, drawing experience, animations, interactions, and overall user experience.
 
-![Drawing App Demo](assets/videos/YOUR_VIDEO_FILENAME.gif)
+![Drawing App Demo](assets/videos/app_demo.gif)
 
 ---
 

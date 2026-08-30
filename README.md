@@ -1,6 +1,6 @@
 # Drawing App
 
-A production Flutter application focused on interactive drawing and coloring experiences, custom UI/UX, performance, user engagement, and monetization.
+A production Flutter application focused on interactive drawing and coloring experiences, custom UI/UX, animations, performance optimization, user engagement, and monetization.
 
 > Professional project developed as part of a product team.
 
@@ -8,9 +8,11 @@ A production Flutter application focused on interactive drawing and coloring exp
 
 ## Overview
 
-Drawing App is a mobile drawing and coloring experience designed to provide users with an engaging and easy-to-use creative environment.
+Drawing App is a creative mobile application designed to provide users with an engaging and interactive drawing and coloring experience.
 
-I contributed to the development and improvement of the application with a strong focus on Flutter development, custom interfaces, performance optimization, app stability, Firebase services, advertising, and user engagement.
+I contributed to the development and improvement of the application across mobile development, UI/UX, performance, app stability, analytics, advertising, monetization, and user engagement.
+
+The application combines a game-inspired visual experience with creative drawing tools, illustrated characters, animations, rewards, and interactive content.
 
 ---
 
@@ -18,18 +20,24 @@ I contributed to the development and improvement of the application with a stron
 
 **Flutter Developer**
 
-My responsibilities included:
+My contributions included:
 
 - Developing and improving Flutter application features
-- Building custom and interactive UI/UX
-- Implementing animations and user interactions
+- Building custom UI/UX and interactive interfaces
+- Implementing animations and game-inspired experiences
+- Developing drawing and coloring functionality
+- Working with drawing tools and interactive elements
 - Optimizing application performance
-- Investigating and reducing crashes and ANRs
-- Integrating and managing Firebase services
-- Working with Google AdMob and rewarded ads
-- Implementing monetization and subscription-related features
-- Improving user engagement and application flow
-- Working on production releases and app improvements
+- Investigating and resolving crashes and ANR issues
+- Integrating Firebase services
+- Working with Firebase Analytics and Remote Config
+- Integrating and optimizing Google AdMob
+- Implementing rewarded advertisements
+- Working on coins and reward logic
+- Implementing subscription-related features
+- Working on daily rewards and earning mechanics
+- Improving user engagement and application flows
+- Supporting production releases and continuous app improvements
 
 ---
 
@@ -37,28 +45,51 @@ My responsibilities included:
 
 ### Drawing & Creative Tools
 
-- Brush, pencil, crayon, highlighter, bucket, and eraser tools
-- Undo and redo functionality
-- Stickers and interactive drawing elements
-- Shapes and tracing images
-- Sketch and coloring experiences
+- Brush tool
+- Pencil tool
+- Bucket / fill tool
+- Crayon tool
+- Highlighter tool
+- Eraser
+- Undo and redo
+- Stickers
+- Shapes
+- Tracing images
+- Sketching experiences
+- Interactive coloring tools
 
-### Content & Visual Experience
+### Content & Categories
 
-- Multiple themed categories including animals and vehicles
-- Character and cartoon-based content
-- Surprise and fun experiences
-- Custom illustrations and visual assets
+- Multiple themed categories
+- Animal illustrations
+- Vehicle illustrations
+- Character and cartoon content
+- Sketches and creative illustrations
+- Surprise and fun content
+- Different difficulty levels
+- Custom visual content
+
+### Visual Experience
+
+- Game-inspired UI/UX
+- Custom illustrations
+- Character-based experiences
+- Interactive animations
+- Custom-designed interfaces
+- Engaging visual interactions
 - AI-assisted image creation and content preparation
-- Game-inspired UI/UX with animations and interactive experiences
+- Python scripting for image and asset preparation
 
-### Engagement & Monetization
+### Rewards & Monetization
 
-- Coins and reward system
-- Daily earning and reward mechanics
+- Coins system
+- Reward system
+- Daily earning mechanics
 - Rewarded advertisements
+- Ad-based rewards
 - Subscription features
-- Content and image unlocking logic
+- Content and image unlocking
+- Monetization flows
 
 ### Analytics & Production
 
@@ -66,8 +97,10 @@ My responsibilities included:
 - Firebase Remote Config
 - Firebase Crashlytics
 - Google AdMob
-- Performance optimization
-- Crash and ANR monitoring and improvements
+- Performance monitoring
+- Crash investigation and optimization
+- ANR monitoring and improvements
+- Production release management
 
 ---
 
@@ -77,62 +110,126 @@ My responsibilities included:
 |---|---|
 | Flutter | Mobile application development |
 | Dart | Application programming |
-| Firebase | Backend services and app infrastructure |
+| Firebase | Application services and infrastructure |
 | Firebase Analytics | User behavior and product analytics |
 | Firebase Remote Config | Remote feature and configuration management |
-| Google AdMob | Mobile advertising and monetization |
+| Firebase Crashlytics | Crash monitoring and stability |
+| Google AdMob | Advertising and monetization |
+| Python | Image and asset preparation scripts |
 | Figma | UI/UX design and prototyping |
 
 ---
 
 ## Performance & Engineering
 
-A major part of my contribution involved improving application stability and performance.
+Performance and application stability were important parts of the development process.
 
 I worked on:
 
 - Identifying performance bottlenecks
 - Optimizing resource-intensive operations
+- Improving drawing-related performance
 - Investigating application crashes
 - Working on ANR-related issues
-- Improving drawing-related performance
-- Optimizing user interactions and application flow
-- Monitoring application behavior through analytics
+- Improving application stability
+- Optimizing user interactions
+- Improving application flows
+- Monitoring production behavior through analytics and Crashlytics
 
 ---
 
-## UI/UX
+## UI/UX & Design
 
-The application includes a highly customized visual experience designed around simplicity, engagement, and ease of use.
+The application was designed with a strong focus on creating a fun, interactive, and game-like experience for users.
 
 My work included:
 
-- Custom Flutter interfaces
+- Custom Flutter UI
 - Interactive components
+- Custom drawing interfaces
 - Animations
-- Drawing canvas experience
+- Character-based experiences
 - Custom icons and controls
+- Drawing canvas experience
+- Stickers and interactive elements
 - User-friendly navigation
 - Engagement-focused UI improvements
+- Figma-based design implementation
 
 ---
 
-## Monetization
+## Content Creation
 
-I worked on several monetization and engagement features, including:
+The application contains a large collection of custom visual content and illustrations.
+
+I also worked with **Python scripts and AI-assisted workflows** to help create and prepare visual assets and images used within the application.
+
+The content includes:
+
+- Animals
+- Vehicles
+- Characters
+- Cartoons
+- Sketches
+- Tracing images
+- Shapes
+- Creative and surprise content
+
+---
+
+## Monetization & Engagement
+
+I worked on multiple monetization and engagement systems, including:
 
 - Google AdMob integration
 - Rewarded advertisements
-- Subscription-related features
-- Image and content unlocking
-- Ad-free experiences
-- Monetization flow optimization
+- Coins and reward logic
+- Daily earning mechanics
+- Subscription features
+- Content unlocking
+- Image unlocking
+- Ad-based rewards
+- Monetization flow improvements
 
 ---
 
 ## Screenshots
 
-Screenshots and visual demonstrations of the application will be added here.
+### Home & Categories
+
+![Home](assets/screenshots/home.png)
+
+![Easy Categories](assets/screenshots/easy_categories.png)
+
+![Hard Categories](assets/screenshots/hard_categories.png)
+
+### Drawing Experience
+
+![Drawing Canvas](assets/screenshots/canvas_screen.png)
+
+![Stickers](assets/screenshots/stickers.png)
+
+![Choose Image](assets/screenshots/choose_image.png)
+
+### Characters & User Experience
+
+![Avatars](assets/screenshots/avatars.png)
+
+![Profile](assets/screenshots/profile_screen.png)
+
+### Rewards & Monetization
+
+![Spin Wheel](assets/screenshots/spinwheel.png)
+
+![Get Coins](assets/screenshots/getcoins.png)
+
+---
+
+## App Demo
+
+A short walkthrough showcasing the application's interface, drawing experience, animations, interactions, and overall user experience.
+
+![Drawing App Demo](assets/videos/YOUR_VIDEO_FILENAME.gif)
 
 ---
 
@@ -140,15 +237,32 @@ Screenshots and visual demonstrations of the application will be added here.
 
 This project allowed me to work across multiple areas of production mobile development:
 
-**Flutter Development → UI/UX → Performance → Firebase → Analytics → Monetization → Production Releases**
+**Flutter Development → Custom UI/UX → Animations → Drawing Features → Performance → Firebase → Analytics → Crash Management → AdMob → Monetization → Production Releases**
+
+---
+
+## Project Highlights
+
+- Built and improved production Flutter features
+- Worked on a highly customized game-inspired UI
+- Developed interactive drawing and coloring experiences
+- Worked on application performance and stability
+- Investigated crashes and ANRs
+- Implemented Firebase Analytics and Remote Config
+- Worked with Firebase Crashlytics
+- Integrated Google AdMob and rewarded ads
+- Developed coins, rewards, and subscription logic
+- Worked on AI-assisted visual content creation
+- Used Python scripting for asset preparation
+- Contributed to continuous production improvements
 
 ---
 
 ## Disclaimer
 
-This repository is a portfolio case study only.
+This repository is a **portfolio case study** and does not contain the application's source code.
 
-The application's source code, proprietary assets, credentials, private data, and other confidential company materials are not included in this repository.
+The original application was developed as part of a professional product team. Proprietary source code, private assets, credentials, client information, and confidential company materials are not included in this repository.
 
 ---
 
@@ -156,4 +270,11 @@ The application's source code, proprietary assets, credentials, private data, an
 
 I am a Flutter Developer with 5+ years of hands-on experience in mobile application development, currently expanding my skills toward **backend development, Node.js, and AI**.
 
-For more information, visit my GitHub profile.
+I am also pursuing a **BS in Business & Information Technology (BBIT) at Virtual University of Pakistan**, developing my knowledge across both technology and business.
+
+---
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/bisma-dev/)
+- [Email](mailto:bismanaz674@gmail.com)

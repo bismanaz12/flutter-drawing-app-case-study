@@ -1,19 +1,10 @@
 # 🎨 Drawing App
 
-### Interactive Flutter Drawing & Coloring Experience
+### Production Flutter Drawing & Coloring Application — Case Study
 
-A production Flutter mobile application focused on interactive drawing and coloring experiences, custom UI/UX, animations, creative content, user engagement, monetization, and production performance.
+A production Flutter mobile application focused on interactive drawing and coloring experiences, custom UI/UX, animations, performance optimization, user engagement, analytics, and monetization.
 
-> **Portfolio Case Study**  
-> This repository presents my contributions and technical experience on a production application. Proprietary source code and confidential company materials are not included.
-
-<p align="center">
-
-<a href="https://play.google.com/store/apps/details?id=com.drawingcoloring.paint.bs&hl=en">
-<img src="https://img.shields.io/badge/Google%20Play-View%20App-success?style=for-the-badge&logo=google-play" alt="Google Play">
-</a>
-
-</p>
+> **Portfolio Case Study:** This repository documents my contributions, technical decisions, product thinking, and development experience. The original application's proprietary source code is not included.
 
 ---
 
@@ -21,103 +12,87 @@ A production Flutter mobile application focused on interactive drawing and color
 
 Drawing App is a creative mobile application designed to provide users with an engaging and interactive drawing and coloring experience.
 
-The application combines a game-inspired visual experience with creative drawing tools, illustrated characters, animations, rewards, interactive content, and monetization features.
+The application combines:
 
-I contributed to the development and continuous improvement of the application across **Flutter development, UI/UX, drawing functionality, performance optimization, production stability, Firebase services, advertising, monetization, and user engagement**.
+- Interactive drawing and coloring
+- Custom illustrations and characters
+- Game-inspired UI/UX
+- Animations and interactive experiences
+- Reward and coin systems
+- Content unlocking
+- Rewarded advertisements
+- Subscription-based monetization
+- Firebase-powered analytics and configuration
+- Production performance and stability optimization
 
----
-
-## 📌 Project Facts
-
-| Area | Details |
-|---|---|
-| **Role** | Flutter Developer |
-| **Platform** | Android & iOS |
-| **Framework** | Flutter |
-| **Language** | Dart |
-| **Backend / Services** | Firebase |
-| **Monetization** | AdMob, Rewarded Ads, Coins, Subscriptions |
-| **Design** | Figma |
-| **Project Type** | Production Mobile Application |
+I contributed across multiple areas of the product, including **Flutter development, UI/UX implementation, animations, drawing functionality, performance optimization, Firebase integration, analytics, advertising, monetization, and production improvements.**
 
 ---
 
 ## 🎯 Product Goal
 
-The goal of the application is to provide a simple yet engaging creative experience where users can explore visual content, select artwork, and interact with it through different drawing and coloring tools.
+The main goal of the application was to create a fun and engaging drawing experience while encouraging users to explore more content and return to the application regularly.
 
-The product combines:
+The product experience was designed around:
 
-- Creative drawing and coloring
-- Interactive visual experiences
-- Game-inspired UI/UX
-- Rewards and engagement mechanics
-- Unlockable content
-- Advertising and subscription-based monetization
+- Simple and accessible drawing interactions
+- Visually engaging content
+- Game-inspired experiences
+- Reward-driven engagement
+- Progressive content unlocking
+- Smooth user flows
+- Monetization without compromising the core experience
+
+---
+
+## 📌 Project Facts
+
+| Category | Details |
+|---|---|
+| Project Type | Production Mobile Application |
+| Role | Flutter Developer |
+| Framework | Flutter |
+| Language | Dart |
+| Services | Firebase |
+| Monetization | AdMob, Rewarded Ads, Subscriptions |
+| Analytics | Firebase Analytics |
+| Stability | Firebase Crashlytics |
+| Configuration | Firebase Remote Config |
+| Design | Figma |
+| Content Workflow | AI-assisted workflows + Python scripting |
+| Repository Type | Portfolio Case Study |
 
 ---
 
 # 👩‍💻 My Role
 
-## Flutter Development
+### Flutter Developer
 
-- Developed and improved production Flutter features
-- Implemented application flows and interactive functionality
-- Developed drawing and coloring experiences
-- Worked on drawing tools and interactive elements
-- Supported continuous production improvements and releases
+I worked on the application across development, UI/UX, performance, monetization, analytics, and production improvements.
 
-## UI/UX & Interaction
+My responsibilities included:
 
-- Implemented custom Flutter UI/UX
-- Built interactive interfaces and components
-- Implemented custom animations
-- Worked on game-inspired visual experiences
-- Implemented Figma designs into Flutter
-- Improved navigation and user flows
-- Improved visual consistency across application screens
-
-## Drawing & Creative Experience
-
-- Worked on drawing and coloring functionality
-- Implemented and improved drawing tools
-- Worked with interactive canvas experiences
-- Worked with stickers and shapes
-- Worked with tracing experiences
-- Worked on undo and redo functionality
-- Improved the overall drawing interaction
-- Improved the creative workflow for users
-
-## Performance & Stability
-
-- Investigated performance bottlenecks
-- Worked on drawing-related performance
-- Investigated crashes and ANR-related issues
-- Improved application stability
-- Optimized user interactions and application flows
-- Monitored production behavior
-- Worked on performance-sensitive drawing operations
-
-## Firebase & Production Services
-
-- Firebase Analytics
-- Firebase Remote Config
-- Firebase Crashlytics
-- Production monitoring
-- Crash investigation
-- Remote configuration management
-- Product behavior analysis
-
-## Monetization & Engagement
-
-- Google AdMob integration
-- Rewarded advertisements
-- Coins and reward logic
-- Daily earning mechanics
-- Content and image unlocking
-- Subscription-related features
-- Engagement-focused flows
-- Ad-based reward experiences
+- Developing and improving Flutter features
+- Implementing custom UI/UX
+- Building interactive user interfaces
+- Developing drawing and coloring functionality
+- Working with drawing tools and interactive elements
+- Implementing animations
+- Improving drawing interactions
+- Working with stickers and creative tools
+- Implementing rewards and coin-related functionality
+- Working with rewarded advertisements
+- Implementing subscription-related functionality
+- Integrating Firebase services
+- Working with Firebase Analytics
+- Working with Firebase Remote Config
+- Working with Firebase Crashlytics
+- Integrating and optimizing Google AdMob
+- Investigating crashes and ANR issues
+- Identifying performance bottlenecks
+- Improving application stability
+- Supporting production releases
+- Improving user engagement and application flows
 
 ---
 
@@ -125,7 +100,7 @@ The product combines:
 
 ## 🎨 Drawing & Creative Tools
 
-The application provides multiple tools for creating interactive drawing and coloring experiences.
+The application provides multiple tools for creating and editing drawings:
 
 - Brush
 - Pencil
@@ -133,180 +108,207 @@ The application provides multiple tools for creating interactive drawing and col
 - Crayon
 - Highlighter
 - Eraser
-- Undo / Redo
+- Undo
+- Redo
 - Stickers
 - Shapes
 - Tracing images
 - Sketching experiences
-- Interactive coloring tools
+- Interactive coloring
 
 ---
 
 ## 🖼️ Content & Categories
 
-The application contains multiple types of creative and illustrated content.
+The application contains multiple categories and types of visual content, including:
 
 - Animals
 - Vehicles
 - Characters
 - Cartoons
 - Sketches
+- Tracing content
+- Shapes
 - Creative illustrations
-- Tracing images
-- Surprise content
+- Surprise and fun content
 - Different difficulty levels
-- Custom visual content
+
+Content is organized to make it easier for users to discover and progressively unlock new drawing experiences.
 
 ---
 
-## 🎭 Visual Experience
+## 🎮 Game-Inspired Experience
 
-The application focuses heavily on visual engagement and interactive experiences.
+The application uses game-inspired elements to make the drawing experience more engaging.
 
-- Game-inspired UI/UX
-- Custom illustrations
+These include:
+
 - Character-based experiences
-- Custom-designed interfaces
 - Interactive animations
-- Custom icons and controls
-- Visual feedback
-- Interactive drawing elements
-- Engaging transitions
-- Creative visual interactions
-
----
-
-## 🪙 Rewards & Monetization
-
-The application combines multiple engagement and monetization mechanisms.
-
-- Coins
 - Rewards
+- Coins
 - Daily earning mechanics
-- Rewarded advertisements
-- Ad-based rewards
 - Content unlocking
-- Image unlocking
-- Subscription features
+- Rewarded advertisements
+- Progress-based engagement
+- Interactive UI elements
 
 ---
 
 # 🔄 User Flow
 
-The main user journey moves from discovering creative content to selecting artwork and entering the drawing experience.
+The application was designed around a simple discovery-to-creation flow where users can browse content, select an illustration, enter the drawing experience, and interact with different tools.
 
-![Drawing App User Flow](assets/diagrams/user-flow.png)
+![User Flow](assets/diagrams/user-flow.png)
 
-### Core Journey
+### Main Flow
 
-**Home → Category → Difficulty → Artwork → Drawing Canvas → Creative Tools → Completed Artwork**
+**Home → Categories → Select Content → Drawing Canvas → Create / Color → Save / Continue**
 
-The flow is designed to move users quickly from content discovery into the core creative experience.
+The flow is designed to minimize unnecessary steps and quickly move users from content discovery into the creative experience.
 
 ---
 
-# 🗂️ Content & Category Structure
+# 🖼️ Content & Asset Workflow
 
-The application organizes creative artwork into multiple categories and difficulty levels.
+The application contains a large collection of visual content that needs to be organized, prepared, and integrated into the product.
 
-The content structure allows users to explore different themes and select artwork according to the available categories and difficulty levels.
+The content workflow covers both **content organization and asset preparation**.
 
-The overall content organization is designed to make artwork discovery simple and intuitive before users enter the drawing experience.
+![Content & Asset Workflow](assets/diagrams/content-workflow.png)
+
+The workflow includes areas such as:
+
+- Content planning
+- Category organization
+- Illustration preparation
+- Image processing
+- Asset optimization
+- Content integration
+- Preparing drawing-ready assets
+- Supporting new content additions
+
+I also worked with **AI-assisted workflows and Python scripting** for visual asset preparation and content-related tasks.
 
 ---
 
 # 🏗️ Application Architecture
 
-The application combines Flutter UI, drawing functionality, application flows, Firebase services, analytics, crash monitoring, advertising, rewards, and monetization components.
+The application was developed as a production Flutter application with different responsibilities separated across the application layers.
 
 ![Application Architecture](assets/diagrams/architecture.png)
 
-The architecture diagram presents the major functional areas of the production application without exposing proprietary implementation details.
+The architecture was designed to support:
 
-### Main Functional Areas
-
-- Flutter application
-- UI / UX
-- Drawing and coloring functionality
-- Interactive tools
-- Application flows
+- UI and presentation logic
+- Application functionality
+- Drawing-related operations
 - Firebase services
 - Analytics
-- Crash monitoring
-- Advertising
-- Rewards
 - Monetization
+- Configuration
+- Production data flows
+
+The goal was to keep feature responsibilities manageable while allowing new functionality to be introduced without unnecessarily affecting unrelated areas of the application.
 
 ---
 
 # 🔥 Firebase Architecture
 
-Firebase services were used to support analytics, remote configuration, crash monitoring, and production application management.
+Firebase was used across several production areas of the application.
 
 ![Firebase Architecture](assets/diagrams/firebase-architecture.png)
 
-### Firebase Services
+Firebase-related functionality included:
 
-| Service | Purpose |
-|---|---|
-| **Firebase Analytics** | Product and user behavior analytics |
-| **Firebase Remote Config** | Remote configuration and supported feature management |
-| **Firebase Crashlytics** | Crash monitoring and stability investigation |
+- Firebase Analytics
+- Firebase Remote Config
+- Firebase Crashlytics
+- Firebase services used by application features
+- Remote configuration of application behavior
+- Production monitoring
 
-These services supported continuous monitoring and improvement of the production application.
+### Firebase Analytics
+
+Analytics helped provide visibility into:
+
+- User interactions
+- Feature usage
+- Engagement
+- Monetization-related events
+- Application behavior
+
+### Firebase Remote Config
+
+Remote Config was used to remotely control selected application configurations without requiring an immediate application update.
+
+This was particularly useful for:
+
+- Feature configuration
+- Monetization configuration
+- Content-related configuration
+- Experimentation
+- Production adjustments
+
+### Firebase Crashlytics
+
+Crashlytics supported:
+
+- Crash investigation
+- Stability monitoring
+- Identifying problematic flows
+- Debugging production issues
+- Monitoring application health
 
 ---
 
 # 💰 Monetization & Engagement Flow
 
-The application combines creative experiences with rewards, coins, advertising, content unlocking, and subscription-based features.
+The application uses multiple monetization and engagement mechanisms.
 
 ![Monetization & Engagement Flow](assets/diagrams/monetization-flow.png)
 
-### Monetization Components
+The monetization system includes:
 
-- Google AdMob
-- Rewarded advertisements
 - Coins
-- Daily rewards
+- Rewards
+- Rewarded advertisements
+- Ad-based rewards
 - Content unlocking
 - Image unlocking
 - Subscription features
+- Daily earning mechanics
 
-### Engagement
-
-Reward-based interactions provide users with additional ways to engage with the application while supporting its monetization strategy.
+The overall approach was designed to provide users with multiple ways to access content while creating opportunities for sustainable monetization.
 
 ---
 
 # 🎨 UI/UX & Design
 
-The application was designed around a fun, interactive, and visually engaging experience.
+A major focus of the application was creating a visually engaging and interactive experience.
 
-## Design Focus
+My UI/UX work included:
 
-- Simple and intuitive navigation
-- Strong visual hierarchy
-- Interactive feedback
-- Game-inspired visual language
-- Engaging creative experiences
-- Easy access to drawing tools
-- Consistent visual interactions
-- Clear content discovery
+- Custom Flutter interfaces
+- Game-inspired layouts
+- Interactive components
+- Drawing canvas experience
+- Custom controls
+- Custom icons
+- Character-based interfaces
+- Stickers
+- Animated interactions
+- Responsive layouts
+- User-friendly navigation
+- Engagement-focused UI improvements
 
-## Design Workflow
-
-My work included translating Figma designs into responsive Flutter interfaces while maintaining the intended visual and interaction experience.
-
-### Design Process
-
-**Figma → Flutter UI → Interactive Components → Animations → Testing → Refinement → Production**
+Design and implementation were supported through **Figma-based workflows**, followed by Flutter implementation and refinement.
 
 ---
 
 # 🎬 App Demo
 
-A short walkthrough showcasing the application's interface, drawing experience, animations, interactions, and overall user experience.
+A short walkthrough demonstrating the application's interface, interactions, drawing experience, and overall visual experience.
 
 ![Drawing App Demo](assets/videos/app_demo.gif)
 
@@ -314,47 +316,47 @@ A short walkthrough showcasing the application's interface, drawing experience, 
 
 # 📸 Screenshots
 
-## 🏠 Home & Content Discovery
+## 🏠 Home & Categories
 
-### Home
+### Home Screen
 
-![Home](assets/screenshots/home.png)
+The main entry point for discovering drawing content and navigating through the application.
 
-The home experience introduces users to the application's creative content and drawing activities.
+![Home Screen](assets/screenshots/home.png)
 
 ### Easy Categories
 
-![Easy Categories](assets/screenshots/easy_categories.png)
+Content organized into accessible categories for users.
 
-Content organized around an easier difficulty level for accessible creative experiences.
+![Easy Categories](assets/screenshots/easy_categories.png)
 
 ### Hard Categories
 
-![Hard Categories](assets/screenshots/hard_categories.png)
+Additional content organized around higher difficulty levels.
 
-More challenging artwork and creative content.
+![Hard Categories](assets/screenshots/hard_categories.png)
 
 ---
 
-## 🖌️ Drawing Experience
-
-### Choose Artwork
-
-![Choose Image](assets/screenshots/choose_image.png)
-
-Users can select artwork before entering the interactive drawing experience.
+## ✏️ Drawing Experience
 
 ### Drawing Canvas
 
+The main creative workspace where users interact with the selected drawing.
+
 ![Drawing Canvas](assets/screenshots/canvas_screen.png)
 
-The main interactive workspace for drawing and coloring.
+### Stickers
 
-### Stickers & Creative Elements
+Interactive sticker functionality available within the creative experience.
 
 ![Stickers](assets/screenshots/stickers.png)
 
-Additional creative elements can be used within the drawing experience.
+### Choose Image
+
+Users can select the content they want to work with.
+
+![Choose Image](assets/screenshots/choose_image.png)
 
 ---
 
@@ -362,15 +364,15 @@ Additional creative elements can be used within the drawing experience.
 
 ### Avatars
 
-![Avatars](assets/screenshots/avatars.png)
+Character and avatar-based elements used within the application experience.
 
-Character and avatar experiences supporting the application's visual identity and engagement.
+![Avatars](assets/screenshots/avatars.png)
 
 ### Profile
 
-![Profile](assets/screenshots/profile_screen.png)
+User profile and related application information.
 
-User-focused profile and application experience.
+![Profile](assets/screenshots/profile_screen.png)
 
 ---
 
@@ -378,543 +380,463 @@ User-focused profile and application experience.
 
 ### Spin Wheel
 
-![Spin Wheel](assets/screenshots/spinwheel.png)
+A reward-oriented interaction used to support engagement and earning mechanics.
 
-A reward-driven interaction designed to support user engagement.
+![Spin Wheel](assets/screenshots/spinwheel.png)
 
 ### Get Coins
 
-![Get Coins](assets/screenshots/getcoins.png)
+A monetization and reward entry point for acquiring additional coins.
 
-Coin and reward experience used within the application's content unlocking and monetization flows.
+![Get Coins](assets/screenshots/getcoins.png)
 
 ---
 
 # ⚙️ Technical Implementation
 
-## Drawing & Interaction
+My technical work covered multiple areas of the production application.
 
-The drawing experience includes multiple interactive tools designed to provide users with different ways to create and modify artwork.
+### Flutter Development
 
-The experience includes:
-
-- Brush
-- Pencil
-- Crayon
-- Highlighter
-- Eraser
-- Bucket / Fill
-- Undo / Redo
-- Stickers
-- Shapes
-- Tracing
-- Interactive coloring
-
-The implementation focuses on responsive interactions and an accessible creative workflow.
-
----
-
-# 🧩 Rendering Approach
-
-A major engineering focus of the drawing experience was improving how artwork could be processed and colored.
-
-## Challenge
-
-Pixel-level image processing can become resource-intensive when artwork requires repeated scanning or processing of image data.
-
-This can affect:
-
-- UI responsiveness
+- Feature development
+- Custom widgets
+- Interactive interfaces
+- Application flows
 - Drawing interactions
-- Memory usage
-- Overall application performance
+- UI state handling
+- Animations
+- Production bug fixes
 
-## Approach
+### Firebase
 
-Supported coloring content was moved toward an **SVG-based approach**, allowing artwork regions to be represented in a more structured way for interactive coloring.
+- Analytics
+- Remote Config
+- Crashlytics
+- Production monitoring
+- Configuration management
 
-## Engineering Focus
+### Monetization
 
-- Reduce unnecessary pixel-level processing
-- Improve responsiveness during coloring interactions
-- Support region-based coloring
-- Improve the overall drawing experience
-- Reduce processing overhead for supported artwork
-
-This approach was part of the broader effort to improve drawing performance and application responsiveness.
+- Google AdMob
+- Rewarded advertisements
+- Coins
+- Rewards
+- Content unlocking
+- Subscription-related functionality
 
 ---
 
-# ⚡ Performance & Engineering
+# 🖌️ Rendering & Drawing Approach
 
-Performance and application stability were important parts of the production development process.
+One of the important technical areas of the application was the drawing and coloring experience.
 
-## Areas I Worked On
+The application required users to interact with individual regions of illustrations and apply colors in an efficient way.
+
+The implementation was moved toward an **SVG-based approach** for supported coloring content, allowing artwork regions to be represented in a more structured format for interactive coloring.
+
+### Engineering Focus
+
+The approach helped address challenges related to:
+
+- Drawing interaction
+- Region-based coloring
+- Performance
+- Rendering behavior
+- Large visual assets
+- User interaction responsiveness
+
+---
+
+# 🚀 Performance & Engineering
+
+Performance was an important consideration because the application contains interactive drawing functionality and visual content.
+
+I worked on:
 
 - Identifying performance bottlenecks
 - Optimizing resource-intensive operations
 - Improving drawing-related performance
-- Investigating application crashes
-- Investigating ANR-related issues
 - Improving UI responsiveness
+- Investigating memory/performance issues
 - Optimizing user interactions
-- Improving application flows
+- Improving application stability
 - Monitoring production behavior
-
-## Production Monitoring
-
-Firebase Analytics and Crashlytics were used to help monitor application behavior and investigate production issues.
-
-Performance improvements were approached by identifying problematic operations, investigating their impact, and applying targeted optimizations.
 
 ---
 
 # 🐛 Crash & ANR Investigation
 
-Production stability was an important part of maintaining the application.
+Production stability was another important part of my work.
 
-When crashes or ANR-related issues were identified, the investigation process involved:
+I worked on investigating:
 
-**Production Issue → Crash / Performance Data → Investigation → Fix → Testing → Release → Monitoring**
+- Application crashes
+- ANR issues
+- Performance-related problems
+- Resource-intensive operations
+- UI responsiveness problems
 
-This created a continuous feedback loop between production monitoring and engineering improvements.
+Firebase Crashlytics and production analytics were useful for identifying issues and understanding application behavior.
+
+The goal was not only to fix individual issues but also to identify the underlying cause and improve the affected flow.
 
 ---
 
 # 🧩 Engineering Challenges & Solutions
 
-## 1. Drawing Performance
+## Challenge 1 — Drawing Performance
 
-### Challenge
+### Problem
 
-Some drawing and image-processing operations could become resource-intensive and affect responsiveness.
+Drawing and coloring operations can become expensive when large images or resource-intensive processing techniques are involved.
 
 ### Approach
 
-Investigated the drawing and rendering workflow and optimized the way supported artwork was processed.
+I worked on improving the rendering approach and moving supported coloring content toward an SVG-based representation.
 
-### Outcome
+### Focus
 
-Improved the responsiveness and overall quality of the drawing experience.
+- Reduce unnecessary processing
+- Improve interaction responsiveness
+- Optimize drawing operations
+- Improve overall user experience
 
 ---
 
-## 2. Production Stability
+## Challenge 2 — Application Stability
 
-### Challenge
+### Problem
 
-Production applications can encounter crashes and ANR-related issues that may be difficult to reproduce during normal development.
+Production applications can experience crashes and ANRs that may not be reproducible during normal development.
 
 ### Approach
 
-Used production monitoring and crash diagnostics to investigate problematic areas and identify potential causes.
+I used production monitoring and crash information to investigate problematic flows.
 
-### Outcome
+### Focus
 
-Implemented targeted fixes and stability improvements across the application.
+- Identify affected functionality
+- Reproduce issues where possible
+- Investigate root causes
+- Apply targeted fixes
+- Monitor production behavior after changes
 
 ---
 
-## 3. Dynamic Configuration
+## Challenge 3 — Balancing Monetization & UX
 
-### Challenge
+### Problem
 
-Some application configuration and product behavior required the ability to be adjusted without depending entirely on a new application release.
-
-### Approach
-
-Used Firebase Remote Config for supported remote configuration requirements.
-
-### Outcome
-
-Provided more flexibility for production configuration and product updates.
-
----
-
-## 4. User Engagement
-
-### Challenge
-
-A creative application needs users to continue exploring content and interacting with the product.
+Ads and monetization should generate revenue without making the core creative experience frustrating.
 
 ### Approach
 
-Worked on rewards, daily earning mechanics, coins, rewarded advertisements, unlockable content, and interactive experiences.
+Different engagement and monetization mechanisms were integrated into the application experience.
 
-### Outcome
+These included:
 
-Created a structured engagement system around the application's creative content.
+- Rewarded advertisements
+- Coins
+- Content unlocking
+- Subscription functionality
+- Reward mechanisms
 
----
-
-## 5. Visual Content Preparation
-
-### Challenge
-
-A drawing and coloring application requires a large collection of visual assets while maintaining consistency and usability across different artwork.
-
-### Approach
-
-Worked with AI-assisted workflows and Python-based processing to help prepare and organize visual assets.
-
-### Outcome
-
-Supported a structured workflow for preparing creative content for application use.
+The focus was to make monetization part of the overall product flow rather than interrupting the core drawing experience unnecessarily.
 
 ---
 
 # 🧠 Key Technical Decisions
 
-| Decision | Purpose |
-|---|---|
-| **Flutter** | Cross-platform mobile application development |
-| **Dart** | Application development |
-| **SVG-based artwork** | Structured artwork representation for supported interactive coloring |
-| **Firebase Analytics** | Product and user behavior analytics |
-| **Firebase Remote Config** | Remote configuration |
-| **Firebase Crashlytics** | Production crash monitoring |
-| **Google AdMob** | Advertising and monetization |
-| **Rewarded Ads** | Reward-based engagement |
-| **Subscriptions** | Premium monetization |
-| **Python Scripts** | Visual asset preparation and processing |
-| **Figma** | UI/UX design and prototyping |
+### SVG-Based Coloring
+
+Used an SVG-oriented representation for supported coloring content to improve the structure of drawable regions and reduce expensive image-processing operations.
+
+### Remote Configuration
+
+Used Firebase Remote Config to allow selected application configurations to be adjusted remotely.
+
+### Production Analytics
+
+Used analytics to understand user behavior and application engagement.
+
+### Crash Monitoring
+
+Used Crashlytics to investigate stability issues and production crashes.
+
+### Rewarded Monetization
+
+Used rewarded advertisements and coin mechanics to create additional engagement opportunities.
+
+### Subscription Model
+
+Supported subscription-related functionality as part of the application's monetization strategy.
 
 ---
 
-# 🤖 Content Creation & Asset Workflow
-
-The application contains a large collection of visual content and illustrations.
-
-I worked with **AI-assisted workflows and Python scripts** to support the creation, preparation, and processing of visual assets.
-
-![Content Creation & Asset Workflow](assets/diagrams/content-workflow.png)
-
-### Workflow Focus
-
-The workflow helped organize the process from visual content requirements through preparation and application integration.
-
-It supported:
-
-- Visual content preparation
-- Asset processing
-- Image optimization
-- Content organization
-- Application integration
-
-AI-assisted tools were used as part of the content workflow rather than as a replacement for application development.
-
----
-
-# 📊 Product & Analytics
+# 📊 Analytics & Product Insights
 
 Analytics played an important role in understanding how users interacted with the application.
 
-Firebase Analytics was used to support:
+Areas of interest included:
 
-- User behavior analysis
-- Product interaction tracking
-- Engagement analysis
-- Feature usage insights
-- Production decision-making
+- Feature engagement
+- Drawing interactions
+- Content discovery
+- Reward interactions
+- Monetization interactions
+- User flows
+- Application behavior
 
-Analytics and production monitoring helped identify areas where application flows and user experiences could be improved.
-
----
-
-# 🪙 Monetization Strategy
-
-The application uses multiple monetization and engagement mechanisms rather than relying on a single revenue source.
-
-## Advertising
-
-Google AdMob was integrated into the application to support advertising-based monetization.
-
-## Rewarded Ads
-
-Rewarded advertisements were used as part of the reward system, allowing users to interact with ads in exchange for application rewards.
-
-## Coins
-
-Coins provide an in-app reward mechanism that can be used within content unlocking flows.
-
-## Subscriptions
-
-Subscription-related features provide a premium monetization path for users who want additional application benefits.
-
-## Content Unlocking
-
-Selected content and images can be connected to the application's reward and monetization systems.
+This allowed development decisions to be informed not only by implementation requirements but also by actual production behavior.
 
 ---
 
-# 🔁 Production Development Workflow
+# 💎 Monetization Strategy
 
-Working on a production application required continuous iteration rather than a one-time development cycle.
+The application uses a combination of free engagement and paid/reward-based access.
 
-**Feature / Requirement → UI/UX Implementation → Flutter Development → Testing → Debugging → Performance Review → Production Release → Monitoring → Improvements**
+The monetization ecosystem includes:
 
-This workflow helped balance new features with stability, performance, and user experience.
+### Rewarded Ads
+
+Users can interact with rewarded advertisements to receive in-app rewards.
+
+### Coins
+
+Coins provide an in-app mechanism for accessing selected content and rewards.
+
+### Content Unlocking
+
+Selected drawing content can be unlocked through the application's reward and monetization systems.
+
+### Subscriptions
+
+Subscription functionality provides an additional monetization path for users who want access to premium functionality or benefits.
 
 ---
 
-# 🚀 Production Development
+# 🔄 Production Development Workflow
 
-This project provided experience working on a continuously evolving production application.
+My work on the application followed an iterative production development process:
 
-My production responsibilities included:
+**Requirement → UI/UX → Development → Testing → Debugging → Analytics → Optimization → Release**
 
-- Feature development
-- UI/UX improvements
-- Bug fixing
-- Performance optimization
-- Crash investigation
-- ANR investigation
-- Analytics monitoring
-- Remote configuration
-- Monetization improvements
-- Reward system improvements
-- Content unlocking
-- User engagement improvements
-- Production release support
-- Continuous application improvements
+This involved continuously improving existing features rather than treating development as a one-time implementation.
+
+Production feedback, crashes, performance behavior, analytics, and user engagement were considered when improving the application.
 
 ---
 
 # 🛠️ Tech Stack
 
-## Mobile Development
-
-- Flutter
-- Dart
-
-## Firebase
-
-- Firebase Analytics
-- Firebase Remote Config
-- Firebase Crashlytics
-
-## Monetization
-
-- Google AdMob
-- Rewarded Ads
-- Subscriptions
-- Coins & Rewards
-
-## Design
-
-- Figma
-- Custom UI/UX
-- Interactive visual design
-- Animations
-
-## Content & Automation
-
-- Python
-- AI-assisted visual content workflows
-- Asset preparation and processing
+| Technology | Purpose |
+|---|---|
+| Flutter | Mobile application development |
+| Dart | Application programming |
+| Firebase Analytics | Product and user analytics |
+| Firebase Remote Config | Remote configuration |
+| Firebase Crashlytics | Crash and stability monitoring |
+| Google AdMob | Advertising |
+| Rewarded Ads | Reward-based monetization |
+| Subscriptions | Premium monetization |
+| Python | Asset and image preparation |
+| Figma | UI/UX design and prototyping |
 
 ---
 
-# 📚 Skills Demonstrated
+# 🧰 Skills Demonstrated
 
-## Mobile Development
+This project allowed me to work across several areas of professional application development.
+
+### Mobile Development
 
 - Flutter
 - Dart
-- Responsive UI
-- Interactive components
-- Custom application flows
+- Production feature development
+- Custom UI
+- Interactive interfaces
 
-## UI/UX
+### UI/UX
 
 - Figma
-- Custom interface implementation
-- Visual hierarchy
-- Interaction design
-- Animations
-- Game-inspired UI
+- Visual design
+- Responsive layouts
+- Custom interactions
+- Animation
+- Product-focused UX
 
-## Engineering
+### Performance
 
 - Performance optimization
-- Debugging
+- Drawing optimization
+- UI responsiveness
+- Resource-intensive operation analysis
+
+### Production Stability
+
 - Crash investigation
 - ANR investigation
+- Crashlytics
+- Debugging
 - Production monitoring
-- Technical problem-solving
 
-## Firebase & Services
+### Firebase
 
 - Firebase Analytics
 - Firebase Remote Config
 - Firebase Crashlytics
 
-## Product & Monetization
+### Monetization
 
-- AdMob
+- Google AdMob
 - Rewarded advertisements
 - Coins
+- Rewards
 - Subscriptions
 - Content unlocking
-- Engagement flows
 
-## Content & Automation
+### Automation & Content
 
 - Python scripting
-- AI-assisted workflows
-- Visual asset preparation
+- AI-assisted visual workflows
+- Asset preparation
+- Visual content processing
 
 ---
 
-# 🌟 Project Highlights
+# ⭐ Project Highlights
 
 - Contributed to a production Flutter mobile application
-- Developed and improved interactive drawing and coloring experiences
-- Worked on highly customized, game-inspired UI/UX
-- Implemented and improved drawing tools and interactions
-- Worked on SVG-based coloring improvements
-- Investigated performance bottlenecks
-- Investigated crashes and ANR-related issues
-- Integrated Firebase Analytics and Remote Config
+- Built and improved custom Flutter UI/UX
+- Worked on interactive drawing and coloring functionality
+- Implemented and improved creative tools
+- Worked with animations and game-inspired experiences
+- Improved drawing-related performance
+- Investigated crashes and ANR issues
+- Integrated Firebase Analytics
+- Worked with Firebase Remote Config
 - Worked with Firebase Crashlytics
-- Integrated Google AdMob and rewarded advertisements
-- Worked on coins, rewards, and subscription features
-- Worked on content unlocking and engagement flows
-- Used AI-assisted workflows for visual content preparation
+- Integrated Google AdMob
+- Worked with rewarded advertisements
+- Implemented coin and reward-related functionality
+- Worked on subscription functionality
+- Worked on content unlocking flows
+- Supported production releases and continuous improvements
+- Worked with AI-assisted visual workflows
 - Used Python scripting for asset preparation
-- Supported continuous production improvements and releases
 
 ---
 
-# 💡 Product Thinking
+# 🧠 Product Thinking
 
-Beyond implementation, this project provided experience thinking about the application from a product perspective.
+Beyond implementation, this project gave me experience thinking about the application as a complete product.
 
 Important considerations included:
 
-- How quickly users reach the core creative experience
-- How content is organized and discovered
-- How rewards influence engagement
-- How monetization can coexist with the user experience
-- How application performance affects user experience
-- How production analytics can guide improvements
-- How visual design influences interaction
+- How users discover content
+- How users enter the drawing experience
+- How creative interactions should feel
+- How rewards can encourage engagement
+- How monetization can coexist with user experience
+- How analytics can inform product decisions
+- How production issues affect real users
+- How performance impacts user satisfaction
 
-This helped connect technical implementation with the overall product experience.
+This helped me approach development from both a **technical and product perspective**.
 
 ---
 
-# 📖 What I Learned
+# 📚 What I Learned
 
-Working on this application strengthened my experience in several areas of production mobile development.
+Working on this application strengthened my experience in:
 
-## Technical
-
-- Building and maintaining production Flutter applications
-- Developing highly interactive mobile interfaces
-- Working with performance-sensitive drawing experiences
-- Improving application responsiveness
-- Working with Firebase production services
-- Investigating crashes and ANR-related issues
-
-## Product
-
-- Designing flows around user engagement
-- Working with monetization systems
-- Understanding reward-based interactions
-- Balancing advertisements with user experience
-- Using analytics to understand product behavior
-
-## Design
-
-- Translating Figma designs into functional interfaces
-- Creating interactive visual experiences
-- Working with animations
-- Maintaining visual consistency
-- Designing simple and engaging interactions
-
-## Content
-
-- Working with large collections of visual assets
-- Using AI-assisted workflows
-- Using Python scripts for asset preparation
-- Preparing visual content for application integration
+- Production Flutter development
+- Large-scale UI implementation
+- Interactive drawing experiences
+- Performance optimization
+- Crash and ANR investigation
+- Firebase ecosystem
+- Analytics-driven development
+- Monetization systems
+- Rewarded advertising
+- Subscription functionality
+- Product-focused UI/UX
+- Visual content workflows
+- Production debugging
+- Continuous application improvement
 
 ---
 
 # 🔮 Future Improvements
 
-Potential areas for future improvement include:
+Potential future improvements could include:
 
-- Additional creative drawing tools
-- Expanded creative content
-- More personalization
-- Improved accessibility
-- Further drawing performance improvements
-- Additional engagement experiences
-- Enhanced offline capabilities where appropriate
-- More advanced creative interactions
+- More advanced drawing tools
+- Additional creative effects
+- More customization options
+- Improved drawing performance
+- More personalized content recommendations
+- Expanded reward mechanics
+- More advanced analytics
+- Additional accessibility improvements
+- More interactive creative experiences
 
 ---
 
 # 🏢 Project Context
 
-This project was developed as part of a professional product team.
+This application was developed as part of a professional product team.
 
-My contribution focused on:
+My contributions were made within a production development environment and included feature development, UI/UX implementation, debugging, optimization, analytics, monetization, and application improvements.
 
-**Flutter Development → UI/UX → Drawing Experience → Performance → Stability → Firebase → Analytics → Monetization → Production Improvements**
-
-The repository is intentionally structured as a **portfolio case study** rather than a source-code repository.
+Because the original application belongs to the product/company, this repository intentionally focuses on the **case study and my professional contributions** rather than reproducing proprietary implementation details.
 
 ---
 
 # 🔐 Source Code & Confidentiality
 
-The original production source code is not included in this repository.
+The original application's source code is **not included** in this repository.
 
-This is intentional because the application was developed as part of a professional product environment.
-
-The repository does not contain:
+This repository does not contain:
 
 - Proprietary source code
-- Private company assets
-- Credentials
+- Private credentials
 - API keys
-- Internal configuration
+- Private company assets
 - Client information
 - Confidential business information
-- Private backend implementation
+- Internal production configuration
+- Restricted application data
 
-The purpose of this repository is to document my **technical contribution, problem-solving approach, product understanding, and production experience**.
+The repository is intended to demonstrate my **skills, technical thinking, product experience, and contributions** while respecting the ownership and confidentiality of the original project.
 
 ---
 
 # ⚠️ Disclaimer
 
-This repository is a **portfolio case study** and does not contain the application's source code.
+This repository is a **portfolio case study** and is not the original source-code repository.
 
-The original application was developed as part of a professional product team. Proprietary source code, private assets, credentials, client information, internal company materials, and other confidential information are intentionally excluded from this repository.
+All proprietary code, private assets, credentials, client information, and confidential company materials remain excluded.
 
-The screenshots, diagrams, and descriptions included here are presented for portfolio and professional documentation purposes.
+The screenshots, diagrams, and documentation included here are provided for portfolio and professional presentation purposes.
 
 ---
 
 # 👩‍💻 About Me
 
-I am a **Flutter Developer with 5+ years of hands-on experience in mobile application development**, with a strong focus on custom UI/UX, interactive experiences, performance, and production applications.
+I am a **Flutter Developer with 5+ years of experience in mobile application development**, with a strong focus on custom UI/UX, interactive experiences, animations, performance optimization, and production applications.
 
-I am currently expanding my skills toward **backend development, Node.js, and AI**, while pursuing a **BS in Business & Information Technology (BBIT) at Virtual University of Pakistan**.
+I am currently expanding my skills toward:
 
-My interests include:
-
-- Mobile Development
-- Flutter
 - Backend Development
+- Node.js
+- REST APIs
 - AI
-- UI/UX
-- Product Development
-- Business & Technology
+- Python automation
+- Software architecture
+- Cloud technologies
+
+I am also pursuing a **BS in Business & Information Technology (BBIT) at Virtual University of Pakistan**, combining technical development skills with business and technology knowledge.
 
 ---
 
@@ -922,46 +844,33 @@ My interests include:
 
 I am interested in opportunities involving:
 
-- Flutter / Mobile Development
+- Mobile Development
+- Flutter Development
 - Backend Engineering
 - Full-Stack Development
-- AI-powered Applications
-- UI/UX-focused Product Development
+- AI & AI-powered Applications
+- UI/UX & Product Development
 - Software Engineering
-- Product Development
 - Business & Technology
 
 ---
 
-# 🤝 Connect With Me
+# 🔗 Connect With Me
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/bisma-dev/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-</a>
-
-<a href="mailto:bismanaz674@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
-</a>
-
-</p>
+- **LinkedIn:** https://www.linkedin.com/in/bisma-dev/
+- **GitHub:** https://github.com/bismanaz12
+- **Email:** bismanaz674@gmail.com
 
 ---
 
-# ⭐ Portfolio
+## ⭐ Final Note
 
-More projects and case studies are available on my GitHub profile:
+This case study represents my experience working on a real production application across:
 
-**GitHub:**  
-https://github.com/bismanaz12
+**Flutter → UI/UX → Animations → Drawing → Performance → Firebase → Analytics → Crash Management → AdMob → Monetization → Production Development**
 
 ---
 
 <p align="center">
-
-### 🎨 Built for creativity.
-### ⚡ Engineered for performance.
-### 📱 Developed with Flutter.
-
+  <b>Built with Flutter • Designed with Product Thinking • Improved Through Production Experience</b>
 </p>

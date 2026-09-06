@@ -208,6 +208,7 @@ The flow is designed to move users quickly from content discovery into the core 
 # 🗂️ Content & Category Structure
 
 The application organizes creative artwork into multiple categories and difficulty levels.
+![Drawing App User Flow](assets/diagrams/content-workflow.png)
 
 The content structure allows users to explore different themes and select artwork according to the available categories and difficulty levels.
 

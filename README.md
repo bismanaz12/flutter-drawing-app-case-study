@@ -1,4 +1,4 @@
-# 🎨 Drawing App
+# Drawing App
 
 ### Interactive Flutter Drawing & Coloring Experience
 
@@ -17,7 +17,7 @@ A production Flutter mobile application focused on interactive drawing and color
 
 ---
 
-## 📱 Project Overview
+## Project Overview
 
 Drawing App is a creative mobile application designed to provide users with an engaging and interactive drawing and coloring experience.
 
@@ -27,7 +27,7 @@ I contributed to the development and continuous improvement of the application a
 
 ---
 
-## 📌 Project Facts
+## Project Facts
 
 | Area | Details |
 |---|---|
@@ -42,7 +42,7 @@ I contributed to the development and continuous improvement of the application a
 
 ---
 
-## 🎯 Product Goal
+## Product Goal
 
 The goal of the application is to provide a simple yet engaging creative experience where users can explore visual content, select artwork, and interact with it through different drawing and coloring tools.
 
@@ -57,7 +57,7 @@ The product combines:
 
 ---
 
-# 👩‍💻 My Role
+# My Role
 
 ## Flutter Development
 
@@ -121,9 +121,9 @@ The product combines:
 
 ---
 
-# ✨ Key Features
+# Key Features
 
-## 🎨 Drawing & Creative Tools
+## Drawing & Creative Tools
 
 The application provides multiple tools for creating interactive drawing and coloring experiences.
 
@@ -142,7 +142,7 @@ The application provides multiple tools for creating interactive drawing and col
 
 ---
 
-## 🖼️ Content & Categories
+## Content & Categories
 
 The application contains multiple types of creative and illustrated content.
 
@@ -159,7 +159,7 @@ The application contains multiple types of creative and illustrated content.
 
 ---
 
-## 🎭 Visual Experience
+## Visual Experience
 
 The application focuses heavily on visual engagement and interactive experiences.
 
@@ -176,7 +176,7 @@ The application focuses heavily on visual engagement and interactive experiences
 
 ---
 
-## 🪙 Rewards & Monetization
+## Rewards & Monetization
 
 The application combines multiple engagement and monetization mechanisms.
 
@@ -191,7 +191,7 @@ The application combines multiple engagement and monetization mechanisms.
 
 ---
 
-# 🔄 User Flow
+# User Flow
 
 The main user journey moves from discovering creative content to selecting artwork and entering the drawing experience.
 
@@ -205,18 +205,28 @@ The flow is designed to move users quickly from content discovery into the core 
 
 ---
 
-# 🗂️ Content & Category Structure
+# Content & Asset Workflow
 
-The application organizes creative artwork into multiple categories and difficulty levels.
-![Drawing App User Flow](assets/diagrams/content-workflow.png)
+The application organizes creative artwork into multiple categories and difficulty levels while also requiring a structured process for preparing visual assets.
 
-The content structure allows users to explore different themes and select artwork according to the available categories and difficulty levels.
+![Content & Asset Workflow](assets/diagrams/content-workflow.png)
 
-The overall content organization is designed to make artwork discovery simple and intuitive before users enter the drawing experience.
+The workflow covers areas such as:
+
+- Content planning
+- Category organization
+- Illustration preparation
+- Image processing
+- Asset optimization
+- Content integration
+- Preparing drawing-ready assets
+- Supporting new content additions
+
+I also worked with **AI-assisted workflows and Python scripting** for visual asset preparation and content-related tasks.
 
 ---
 
-# 🏗️ Application Architecture
+# Application Architecture
 
 The application combines Flutter UI, drawing functionality, application flows, Firebase services, analytics, crash monitoring, advertising, rewards, and monetization components.
 
@@ -224,7 +234,7 @@ The application combines Flutter UI, drawing functionality, application flows, F
 
 The architecture diagram presents the major functional areas of the production application without exposing proprietary implementation details.
 
-### Main Functional Areas
+## Main Functional Areas
 
 - Flutter application
 - UI / UX
@@ -240,13 +250,13 @@ The architecture diagram presents the major functional areas of the production a
 
 ---
 
-# 🔥 Firebase Architecture
+# Firebase Architecture
 
 Firebase services were used to support analytics, remote configuration, crash monitoring, and production application management.
 
 ![Firebase Architecture](assets/diagrams/firebase-architecture.png)
 
-### Firebase Services
+## Firebase Services
 
 | Service | Purpose |
 |---|---|
@@ -258,13 +268,13 @@ These services supported continuous monitoring and improvement of the production
 
 ---
 
-# 💰 Monetization & Engagement Flow
+# Monetization & Engagement Flow
 
 The application combines creative experiences with rewards, coins, advertising, content unlocking, and subscription-based features.
 
 ![Monetization & Engagement Flow](assets/diagrams/monetization-flow.png)
 
-### Monetization Components
+## Monetization Components
 
 - Google AdMob
 - Rewarded advertisements
@@ -274,13 +284,13 @@ The application combines creative experiences with rewards, coins, advertising, 
 - Image unlocking
 - Subscription features
 
-### Engagement
+## Engagement
 
 Reward-based interactions provide users with additional ways to engage with the application while supporting its monetization strategy.
 
 ---
 
-# 🎨 UI/UX & Design
+# UI/UX & Design
 
 The application was designed around a fun, interactive, and visually engaging experience.
 
@@ -305,7 +315,7 @@ My work included translating Figma designs into responsive Flutter interfaces wh
 
 ---
 
-# 🎬 App Demo
+# App Demo
 
 A short walkthrough showcasing the application's interface, drawing experience, animations, interactions, and overall user experience.
 
@@ -313,9 +323,9 @@ A short walkthrough showcasing the application's interface, drawing experience, 
 
 ---
 
-# 📸 Screenshots
+# Screenshots
 
-## 🏠 Home & Content Discovery
+## Home & Content Discovery
 
 ### Home
 
@@ -337,7 +347,7 @@ More challenging artwork and creative content.
 
 ---
 
-## 🖌️ Drawing Experience
+## Drawing Experience
 
 ### Choose Artwork
 
@@ -359,7 +369,7 @@ Additional creative elements can be used within the drawing experience.
 
 ---
 
-## 👤 Characters & User Experience
+## Characters & User Experience
 
 ### Avatars
 
@@ -375,7 +385,7 @@ User-focused profile and application experience.
 
 ---
 
-## 🪙 Rewards & Monetization
+## Rewards & Monetization
 
 ### Spin Wheel
 
@@ -391,7 +401,7 @@ Coin and reward experience used within the application's content unlocking and m
 
 ---
 
-# ⚙️ Technical Implementation
+# Technical Implementation
 
 ## Drawing & Interaction
 
@@ -415,7 +425,7 @@ The implementation focuses on responsive interactions and an accessible creative
 
 ---
 
-# 🧩 Rendering Approach
+# Rendering Approach
 
 A major engineering focus of the drawing experience was improving how artwork could be processed and colored.
 
@@ -446,7 +456,7 @@ This approach was part of the broader effort to improve drawing performance and 
 
 ---
 
-# ⚡ Performance & Engineering
+# Performance & Engineering
 
 Performance and application stability were important parts of the production development process.
 
@@ -470,7 +480,7 @@ Performance improvements were approached by identifying problematic operations, 
 
 ---
 
-# 🐛 Crash & ANR Investigation
+# Crash & ANR Investigation
 
 Production stability was an important part of maintaining the application.
 
@@ -482,7 +492,7 @@ This created a continuous feedback loop between production monitoring and engine
 
 ---
 
-# 🧩 Engineering Challenges & Solutions
+# Engineering Challenges & Solutions
 
 ## 1. Drawing Performance
 
@@ -564,7 +574,7 @@ Supported a structured workflow for preparing creative content for application u
 
 ---
 
-# 🧠 Key Technical Decisions
+# Key Technical Decisions
 
 | Decision | Purpose |
 |---|---|
@@ -582,31 +592,7 @@ Supported a structured workflow for preparing creative content for application u
 
 ---
 
-# 🤖 Content Creation & Asset Workflow
-
-The application contains a large collection of visual content and illustrations.
-
-I worked with **AI-assisted workflows and Python scripts** to support the creation, preparation, and processing of visual assets.
-
-![Content Creation & Asset Workflow](assets/diagrams/content-workflow.png)
-
-### Workflow Focus
-
-The workflow helped organize the process from visual content requirements through preparation and application integration.
-
-It supported:
-
-- Visual content preparation
-- Asset processing
-- Image optimization
-- Content organization
-- Application integration
-
-AI-assisted tools were used as part of the content workflow rather than as a replacement for application development.
-
----
-
-# 📊 Product & Analytics
+# Product & Analytics
 
 Analytics played an important role in understanding how users interacted with the application.
 
@@ -622,7 +608,7 @@ Analytics and production monitoring helped identify areas where application flow
 
 ---
 
-# 🪙 Monetization Strategy
+# Monetization Strategy
 
 The application uses multiple monetization and engagement mechanisms rather than relying on a single revenue source.
 
@@ -648,19 +634,13 @@ Selected content and images can be connected to the application's reward and mon
 
 ---
 
-# 🔁 Production Development Workflow
+# Production Development
 
 Working on a production application required continuous iteration rather than a one-time development cycle.
 
+### Development Workflow
+
 **Feature / Requirement → UI/UX Implementation → Flutter Development → Testing → Debugging → Performance Review → Production Release → Monitoring → Improvements**
-
-This workflow helped balance new features with stability, performance, and user experience.
-
----
-
-# 🚀 Production Development
-
-This project provided experience working on a continuously evolving production application.
 
 My production responsibilities included:
 
@@ -681,7 +661,7 @@ My production responsibilities included:
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 ## Mobile Development
 
@@ -716,7 +696,7 @@ My production responsibilities included:
 
 ---
 
-# 📚 Skills Demonstrated
+# Skills Demonstrated
 
 ## Mobile Development
 
@@ -767,7 +747,7 @@ My production responsibilities included:
 
 ---
 
-# 🌟 Project Highlights
+# Project Highlights
 
 - Contributed to a production Flutter mobile application
 - Developed and improved interactive drawing and coloring experiences
@@ -787,7 +767,7 @@ My production responsibilities included:
 
 ---
 
-# 💡 Product Thinking
+# Product Thinking
 
 Beyond implementation, this project provided experience thinking about the application from a product perspective.
 
@@ -805,7 +785,7 @@ This helped connect technical implementation with the overall product experience
 
 ---
 
-# 📖 What I Learned
+# What I Learned
 
 Working on this application strengthened my experience in several areas of production mobile development.
 
@@ -843,7 +823,7 @@ Working on this application strengthened my experience in several areas of produ
 
 ---
 
-# 🔮 Future Improvements
+# Future Improvements
 
 Potential areas for future improvement include:
 
@@ -858,7 +838,7 @@ Potential areas for future improvement include:
 
 ---
 
-# 🏢 Project Context
+# Project Context
 
 This project was developed as part of a professional product team.
 
@@ -870,7 +850,7 @@ The repository is intentionally structured as a **portfolio case study** rather 
 
 ---
 
-# 🔐 Source Code & Confidentiality
+# Source Code & Confidentiality
 
 The original production source code is not included in this repository.
 
@@ -891,7 +871,7 @@ The purpose of this repository is to document my **technical contribution, probl
 
 ---
 
-# ⚠️ Disclaimer
+# Disclaimer
 
 This repository is a **portfolio case study** and does not contain the application's source code.
 
@@ -901,7 +881,7 @@ The screenshots, diagrams, and descriptions included here are presented for port
 
 ---
 
-# 👩‍💻 About Me
+# About Me
 
 I am a **Flutter Developer with 5+ years of hands-on experience in mobile application development**, with a strong focus on custom UI/UX, interactive experiences, performance, and production applications.
 
@@ -919,7 +899,7 @@ My interests include:
 
 ---
 
-# 🎯 Career Interests
+# Career Interests
 
 I am interested in opportunities involving:
 
@@ -934,7 +914,7 @@ I am interested in opportunities involving:
 
 ---
 
-# 🤝 Connect With Me
+# Connect With Me
 
 <p align="left">
 
@@ -950,7 +930,7 @@ I am interested in opportunities involving:
 
 ---
 
-# ⭐ Portfolio
+# Portfolio
 
 More projects and case studies are available on my GitHub profile:
 
@@ -961,8 +941,8 @@ https://github.com/bismanaz12
 
 <p align="center">
 
-### 🎨 Built for creativity.
-### ⚡ Engineered for performance.
-### 📱 Developed with Flutter.
+### Built for creativity.
+### Engineered for performance.
+### Developed with Flutter.
 
 </p>
